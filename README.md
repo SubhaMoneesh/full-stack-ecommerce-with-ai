@@ -28,18 +28,14 @@ This project is a full-stack e-commerce application designed to provide a modern
 1. **Clone the repository**
    ```bash
    git clone [repository_url]
-   ```bash
 2. **Navigate to the project directory**
    ```bash
    cd [project_name]
-   ```bash
 3. **Set up environment variables**
   Create a .env file and configure database and other service variables.
 4. **Build and run with Docker Compose**
    ```bash
    docker-compose up --build
-   ```bash
 5. **Access the application**
    ```arduino
    http://localhost:3000
-   ```arduino
