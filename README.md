@@ -1,43 +1,33 @@
-Project Title: Full-Stack E-commerce Platform with AI-Powered Product Recommendation Engine
+# Full-Stack E-commerce Platform with AI-Powered Product Recommendation Engine
 
-Description:
-This project is a full-stack e-commerce application designed to provide a modern, seamless shopping experience. Beyond standard e-commerce functionalities, it integrates an AI-powered recommendation engine to personalize the user's journey. The application is built with scalability and maintainability in mind, leveraging a microservices-based architecture and containerization for easy deployment.
+## Description
+This is a **full-stack e-commerce application** designed to deliver a modern, seamless shopping experience.  
+In addition to standard e-commerce functionalities, it integrates an **AI-powered recommendation engine** to personalize the user journey.  
 
-Features:
+Built with **scalability** and **maintainability** in mind, the application leverages a **microservices-based architecture** and **containerization** for easy deployment.
 
-User Authentication: Secure user registration and login system.
+---
 
-Product Catalog: Browse a catalog of over 10,000 products, with search and filtering capabilities.
+## Features
+- **User Authentication** – Secure registration and login system.
+- **Product Catalog** – Browse a catalog of 10,000+ products with search and filtering.
+- **Shopping Cart** – Add, remove, and update products dynamically.
+- **AI-Powered Recommendations** – Suggests products based on user behavior and historical data.
+- **Admin Dashboard** – Manage products, users, and orders through a dedicated interface.
+- **Payment Integration** – Simulated payment gateway for a complete checkout experience.
 
-Shopping Cart: Users can add, remove, and update products in a dynamic shopping cart.
+---
 
-Product Recommendation Engine: An AI-powered engine suggests products based on user behavior and historical data.
+## Tech Stack
+**Frontend:** React.js, Redux, HTML, CSS  
+**Backend:** Node.js, Express.js  
+**Database:** PostgreSQL  
+**Machine Learning:** Python, Scikit-learn, Pandas  
+**Deployment:** Docker, Docker Compose  
 
-Admin Dashboard: A separate interface for administrators to manage products, users, and orders.
+---
 
-Payment Integration: Simulated payment gateway integration for a complete checkout flow.
-
-Tech Stack:
-
-Frontend: React.js, Redux, HTML, CSS
-
-Backend: Node.js, Express.js
-
-Database: PostgreSQL
-
-Machine Learning: Python, Scikit-learn, Pandas
-
-Deployment: Docker, Docker Compose
-
-Installation:
-
-Clone the repository: git clone [repository_url]
-
-Navigate to the project directory: cd [project_name]
-
-Set up environment variables for the database and other services.
-
-Run Docker Compose: docker-compose up --build
-
-Access the application at http://localhost:3000.
-
+## Installation
+1. **Clone the repository**
+   ```bash
+   git clone [repository_url]
