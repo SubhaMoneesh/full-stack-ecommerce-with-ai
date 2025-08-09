@@ -1,20 +1,17 @@
 # Full-Stack E-commerce Platform with AI-Powered Product Recommendation Engine
 
 ## Description
-This is a **full-stack e-commerce application** designed to deliver a modern, seamless shopping experience.  
-In addition to standard e-commerce functionalities, it integrates an **AI-powered recommendation engine** to personalize the user journey.  
-
-Built with **scalability** and **maintainability** in mind, the application leverages a **microservices-based architecture** and **containerization** for easy deployment.
+This project is a full-stack e-commerce application designed to provide a modern, seamless shopping experience. Beyond standard e-commerce functionalities, it integrates an AI-powered recommendation engine to personalize the user's journey. The application is built with scalability and maintainability in mind, leveraging a microservices-based architecture and containerization for easy deployment.
 
 ---
 
 ## Features
-- **User Authentication** – Secure registration and login system.
-- **Product Catalog** – Browse a catalog of 10,000+ products with search and filtering.
-- **Shopping Cart** – Add, remove, and update products dynamically.
-- **AI-Powered Recommendations** – Suggests products based on user behavior and historical data.
-- **Admin Dashboard** – Manage products, users, and orders through a dedicated interface.
-- **Payment Integration** – Simulated payment gateway for a complete checkout experience.
+- **User Authentication** – Secure user registration and login system.
+- **Product Catalog** – Browse a catalog of over 10,000 products, with search and filtering capabilities.
+- **Shopping Cart** – Users can add, remove, and update products in a dynamic shopping cart.
+- **Product Recommendation Engine** – An AI-powered engine suggests products based on user behavior and historical data.
+- **Admin Dashboard** – A separate interface for administrators to manage products, users, and orders.
+- **Payment Integration** – Simulated payment gateway integration for a complete checkout flow.
 
 ---
 
