@@ -17,7 +17,7 @@ This project is a full-stack e-commerce application designed to provide a modern
 
 ## Tech Stack
 **Frontend:** React.js, Redux, HTML, CSS  
-**Backend:** Node.js, Express.js  
+**Backend:** Java, Spring Boot 
 **Database:** PostgreSQL  
 **Machine Learning:** Python, Scikit-learn, Pandas  
 **Deployment:** Docker, Docker Compose  
